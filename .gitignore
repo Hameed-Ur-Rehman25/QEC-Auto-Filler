@@ -1,6 +1,7 @@
 # Ignore everything by default
 *
 
-# Allow README.md and .gitignore to be tracked
+# Allow README.md, .gitignore, and the release ZIP to be tracked
 !README.md
 !.gitignore
+!qec-survey-autofiller.zip
