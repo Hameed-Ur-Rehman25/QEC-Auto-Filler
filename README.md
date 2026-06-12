@@ -12,7 +12,14 @@ Instead of manually clicking hundreds of radio buttons and typing repetitive fee
 
 Watch the step-by-step video guide on how to load and use the auto-filler:
 
-👉 **[Watch the Google Drive Video Demo](https://drive.google.com/file/d/1ZMfEJ7VXsgqeUF-6zcu0QusMqxj7bzb2/view?usp=sharing)**
+<div align="center">
+  <a href="https://drive.google.com/file/d/1ZMfEJ7VXsgqeUF-6zcu0QusMqxj7bzb2/view?usp=sharing" target="_blank">
+    <img src="https://raw.githubusercontent.com/Hameed-Ur-Rehman25/QEC-Auto-Filler/main/icons/icon-128.png" width="96" alt="QEC Auto-Filler Logo" style="border-radius:20px;" />
+    <br><br>
+    <h3>▶️ Click Here to Watch the Demo Video</h3>
+    <img src="https://img.shields.io/badge/Play_Video-Google_Drive-06B6D4?style=for-the-badge&logo=google-drive&logoColor=white" alt="Play Video" />
+  </a>
+</div>
 
 ---
 
