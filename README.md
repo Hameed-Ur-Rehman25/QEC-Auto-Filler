@@ -8,6 +8,8 @@ Instead of manually clicking hundreds of radio buttons and typing repetitive fee
 
 ## 🎥 Demo & How to Use
 
+⭐ **If this extension saves you time, please star this repository!**
+
 Watch the step-by-step video guide on how to load and use the auto-filler:
 
 👉 **[Watch the Google Drive Video Demo](https://drive.google.com/file/d/1ZMfEJ7VXsgqeUF-6zcu0QusMqxj7bzb2/view?usp=sharing)**
