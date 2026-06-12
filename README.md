@@ -12,6 +12,10 @@ Instead of manually clicking hundreds of radio buttons and typing repetitive fee
 
 Watch the step-by-step video guide on how to load and use the auto-filler:
 
+
+https://github.com/user-attachments/assets/c0270e1e-10ce-458b-b947-0462d0c27923
+
+
 <div align="center">
   <a href="https://drive.google.com/file/d/1ZMfEJ7VXsgqeUF-6zcu0QusMqxj7bzb2/view?usp=sharing" target="_blank">
     <img src="demo.gif" width="600" alt="QEC Auto-Filler Demo" style="border-radius:12px;" />
