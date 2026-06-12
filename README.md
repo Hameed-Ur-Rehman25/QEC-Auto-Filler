@@ -58,15 +58,14 @@ The extension is fully compatible with the following Air University QEC portal p
 Since this extension is shared on GitHub and is not listed in the public Chrome Web Store, you can install it manually in **Developer Mode**:
 
 ### Step 1: Download the Extension
-1. Click the green **Code** button at the top of this GitHub repository page.
-2. Select **Download ZIP**.
-3. Extract the downloaded `.zip` file to a folder on your computer (e.g., your Desktop).
+1. Download the pre-packaged secure release archive: **[qec-survey-autofiller.zip](qec-survey-autofiller.zip)** (click on the file in the list above, then click the download button).
+2. Extract/unzip the downloaded `qec-survey-autofiller.zip` archive on your computer. This will create a folder named `qec-survey-autofiller` containing the extension files.
 
 ### Step 2: Load it into Google Chrome
 1. Open Google Chrome and go to the Extensions page by typing `chrome://extensions/` in the URL search bar.
 2. In the top-right corner of the Extensions page, switch **Developer mode** to **ON**.
 3. Click the **Load unpacked** button in the top-left corner.
-4. Select the extracted folder containing the extension files (the folder that has `manifest.json` inside it).
+4. Select the **entire extracted folder** (the folder named `qec-survey-autofiller` containing the `manifest.json` file inside it). **Note**: Do not select individual files; you must select and load the *whole folder*.
 
 ### Step 3: Run the Auto-Filler
 1. Navigate to the Air University QEC Survey System page:
