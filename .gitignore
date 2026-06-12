@@ -1,7 +1,10 @@
 # Ignore everything by default
 *
 
-# Allow README.md, .gitignore, and the release ZIP to be tracked
+# Allow README.md, .gitignore, the icons folder, the demo GIF, and the release ZIP to be tracked
 !README.md
 !.gitignore
+!icons/
+!icons/*
+!demo.gif
 !qec-survey-autofiller.zip
