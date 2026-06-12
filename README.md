@@ -14,7 +14,7 @@ Watch the step-by-step video guide on how to load and use the auto-filler:
 
 <div align="center">
   <a href="https://drive.google.com/file/d/1ZMfEJ7VXsgqeUF-6zcu0QusMqxj7bzb2/view?usp=sharing" target="_blank">
-    <img src="https://raw.githubusercontent.com/Hameed-Ur-Rehman25/QEC-Auto-Filler/main/demo.gif" width="600" alt="QEC Auto-Filler Demo" style="border-radius:12px;" />
+    <img src="demo.gif" width="600" alt="QEC Auto-Filler Demo" style="border-radius:12px;" />
     <br><br>
     <h3>▶️ Click Here to Watch the Full Video Demo with Audio</h3>
     <img src="https://img.shields.io/badge/Play_Full_Video-Google_Drive-06B6D4?style=for-the-badge&logo=google-drive&logoColor=white" alt="Play Video" />
