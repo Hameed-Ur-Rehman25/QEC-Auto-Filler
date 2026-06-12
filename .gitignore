@@ -1,0 +1,6 @@
+# Ignore everything by default
+*
+
+# Allow README.md and .gitignore to be tracked
+!README.md
+!.gitignore
