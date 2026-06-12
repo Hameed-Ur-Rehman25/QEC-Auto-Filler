@@ -13,7 +13,11 @@ Instead of manually clicking hundreds of radio buttons and typing repetitive fee
 Watch the step-by-step video guide on how to load and use the auto-filler:
 
 
-https://github.com/user-attachments/assets/c0270e1e-10ce-458b-b947-0462d0c27923
+
+
+https://github.com/user-attachments/assets/b1525a2d-97c4-428f-8bbe-2bdf129d7189
+
+
 
 
 <div align="center">
